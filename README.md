@@ -1,3 +1,18 @@
+
+
+# A Patched Version of [Somnia-Refreshed](https://github.com/Henrykado/Somnia-Refreshed)
+
+解决了 Blur 和 Somnia 一起安装后，在上床睡觉时，会发生游戏崩溃的问题。
+我不太懂怎么用github，所以没能打开fork。
+SORRY..X( 
+当然。我不敢提交pull request
+因为这个patch是用DeepSeek写的。
+问题部分，全部。都是AI代码。除了问问题和Ctrl+V，我什么都没做。
+然后代码被DeepSeek改得面目全非了。
+-----------但是问题解决了！！（哈哈哈哈哈）
+XD
+---------------------------------------------------------------------------------------------------------------------------------------------
+
 # Somnia Refreshed
 
 ## This is a fork of the 1.12.2 version of [Somnia Awoken](https://www.curseforge.com/minecraft/mc-mods/somnia).
